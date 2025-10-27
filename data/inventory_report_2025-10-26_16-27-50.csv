@@ -1,2 +1,51 @@
 ID,Name,Description,Price,Quantity,Limit
-1,mo,e,2.00,2,2
+1,Modem,Electronic,2500,2,2
+2,Router,Networking device,3200,5,3
+3,Keyboard,Computer accessory,800,10,5
+4,Mouse,Computer accessory,600,12,5
+5,Monitor,Display device,8500,4,2
+6,Printer,Office equipment,12000,3,2
+7,Scanner,Office equipment,9500,2,2
+8,USB Drive,Storage device,700,20,5
+9,External HDD,Storage device,4500,6,3
+10,SSD,Storage device,5200,8,4
+11,Graphics Card,Computer hardware,30000,2,1
+12,RAM,Memory module,2500,10,4
+13,Motherboard,Computer hardware,15000,3,2
+14,CPU,Processor unit,22000,2,1
+15,Power Supply,Computer component,4000,5,3
+16,Cabinet,Computer case,3500,3,2
+17,Webcam,Peripheral device,1800,7,3
+18,Headset,Audio accessory,2200,9,4
+19,Microphone,Audio equipment,2800,6,3
+20,Speakers,Audio device,3200,8,4
+21,Smartphone,Electronics,28000,5,2
+22,Tablet,Electronics,25000,4,2
+23,Laptop,Electronics,60000,3,2
+24,Smartwatch,Wearable device,15000,4,2
+25,Charger,Accessory,900,15,5
+26,HDMI Cable,Accessory,500,25,5
+27,Ethernet Cable,Networking cable,350,30,10
+28,Projector,Office device,45000,2,1
+29,UPS,Power backup,7000,3,2
+30,Extension Board,Power accessory,800,20,5
+31,WiFi Adapter,Networking device,1100,10,4
+32,Bluetooth Dongle,Wireless device,750,12,5
+33,VR Headset,Gaming device,22000,2,1
+34,Game Controller,Gaming accessory,3500,5,2
+35,Drone,Electronics,85000,1,1
+36,Camera,Photography device,55000,2,1
+37,Tripod,Camera accessory,2500,5,3
+38,Memory Card,Storage device,1200,15,5
+39,Power Bank,Mobile accessory,3000,8,3
+40,Flashlight,Utility device,900,12,5
+41,Smart TV,Electronics,65000,2,1
+42,Soundbar,Audio system,18000,3,2
+43,Microwave,Home appliance,20000,4,2
+44,Refrigerator,Home appliance,45000,2,1
+45,Washing Machine,Home appliance,40000,2,1
+46,Air Conditioner,Home appliance,52000,2,1
+47,Ceiling Fan,Home appliance,3500,10,3
+48,Water Purifier,Home appliance,12000,3,2
+49,Vacuum Cleaner,Home appliance,14000,2,1
+50,Electric Kettle,Home appliance,2500,8,3
