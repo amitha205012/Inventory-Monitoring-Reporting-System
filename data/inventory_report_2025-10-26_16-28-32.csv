@@ -1,2 +1,101 @@
 ID,Name,Description,Price,Quantity,Limit
-1,mo,e,2.00,2,2
+1,Modem,Electronic,2500,2,2
+2,Router,Networking device,3200,5,3
+3,Keyboard,Computer accessory,800,10,5
+4,Mouse,Computer accessory,600,12,5
+5,Monitor,Display device,8500,4,2
+6,Printer,Office equipment,12000,3,2
+7,Scanner,Office equipment,9500,2,2
+8,USB Drive,Storage device,700,20,5
+9,External HDD,Storage device,4500,6,3
+10,SSD,Storage device,5200,8,4
+11,Graphics Card,Computer hardware,30000,2,1
+12,RAM,Memory module,2500,10,4
+13,Motherboard,Computer hardware,15000,3,2
+14,CPU,Processor unit,22000,2,1
+15,Power Supply,Computer component,4000,5,3
+16,Cabinet,Computer case,3500,3,2
+17,Webcam,Peripheral device,1800,7,3
+18,Headset,Audio accessory,2200,9,4
+19,Microphone,Audio equipment,2800,6,3
+20,Speakers,Audio device,3200,8,4
+21,Smartphone,Electronics,28000,5,2
+22,Tablet,Electronics,25000,4,2
+23,Laptop,Electronics,60000,3,2
+24,Smartwatch,Wearable device,15000,4,2
+25,Charger,Accessory,900,15,5
+26,HDMI Cable,Accessory,500,25,5
+27,Ethernet Cable,Networking cable,350,30,10
+28,Projector,Office device,45000,2,1
+29,UPS,Power backup,7000,3,2
+30,Extension Board,Power accessory,800,20,5
+31,WiFi Adapter,Networking device,1100,10,4
+32,Bluetooth Dongle,Wireless device,750,12,5
+33,VR Headset,Gaming device,22000,2,1
+34,Game Controller,Gaming accessory,3500,5,2
+35,Drone,Electronics,85000,1,1
+36,Camera,Photography device,55000,2,1
+37,Tripod,Camera accessory,2500,5,3
+38,Memory Card,Storage device,1200,15,5
+39,Power Bank,Mobile accessory,3000,8,3
+40,Flashlight,Utility device,900,12,5
+41,Smart TV,Electronics,65000,2,1
+42,Soundbar,Audio system,18000,3,2
+43,Microwave,Home appliance,20000,4,2
+44,Refrigerator,Home appliance,45000,2,1
+45,Washing Machine,Home appliance,40000,2,1
+46,Air Conditioner,Home appliance,52000,2,1
+47,Ceiling Fan,Home appliance,3500,10,3
+48,Water Purifier,Home appliance,12000,3,2
+49,Vacuum Cleaner,Home appliance,14000,2,1
+50,Electric Kettle,Home appliance,2500,8,3
+51,Toaster,Home appliance,2000,6,3
+52,Blender,Home appliance,3500,4,2
+53,Hair Dryer,Personal care,2500,10,4
+54,Trimmer,Personal care,1800,8,3
+55,Iron Box,Home appliance,2200,5,2
+56,Juicer,Kitchen appliance,3000,4,2
+57,Coffee Maker,Kitchen appliance,7000,3,2
+58,Rice Cooker,Kitchen appliance,4000,5,3
+59,Mixer Grinder,Kitchen appliance,4500,4,2
+60,Oven,Home appliance,16000,2,1
+61,Induction Stove,Kitchen appliance,5500,3,2
+62,Water Heater,Home appliance,8000,2,1
+63,Electric Stove,Kitchen appliance,5000,3,2
+64,Smart Plug,Smart home device,1200,10,4
+65,Smart Bulb,Smart home device,900,15,5
+66,Smart Lock,Smart home device,8000,2,1
+67,Security Camera,Smart home device,7000,3,2
+68,Doorbell Camera,Smart home device,6000,2,1
+69,Air Purifier,Home appliance,18000,3,2
+70,Humidifier,Home appliance,4500,4,2
+71,Dehumidifier,Home appliance,12000,2,1
+72,Smart Thermostat,Smart home device,15000,2,1
+73,Robot Vacuum,Home appliance,35000,1,1
+74,Smart Speaker,Electronics,7000,4,2
+75,Wireless Charger,Accessory,2000,10,4
+76,USB Hub,Computer accessory,1500,8,3
+77,Monitor Stand,Computer accessory,2500,5,3
+78,Laptop Stand,Computer accessory,2800,6,3
+79,Laptop Bag,Accessory,1800,7,3
+80,Mouse Pad,Computer accessory,400,20,10
+81,Printer Ink,Office supply,1200,12,5
+82,Paper Ream,Office supply,500,25,10
+83,Stapler,Office supply,300,15,5
+84,Pen Drive,Storage device,900,18,5
+85,Label Printer,Office equipment,15000,2,1
+86,Barcode Scanner,Office equipment,8500,3,2
+87,POS Machine,Office equipment,25000,2,1
+88,Laminator,Office equipment,7000,2,1
+89,Shredder,Office equipment,9500,2,1
+90,Attendance Machine,Office equipment,18000,2,1
+91,Server Rack,Networking equipment,45000,1,1
+92,Patch Panel,Networking equipment,2500,5,3
+93,Switch,Networking equipment,8000,4,2
+94,Firewall,Networking equipment,35000,2,1
+95,CCTV Kit,Security system,30000,2,1
+96,Alarm System,Security system,12000,2,1
+97,Access Control,Security system,18000,2,1
+98,Network Cable,Networking cable,400,50,10
+99,Fiber Optic Cable,Networking cable,1500,20,5
+100,LAN Tester,Networking tool,2500,5,3
