@@ -1,4 +1,4 @@
-package dao;
+package DAO;
 
 import model.Product;
 import org.junit.jupiter.api.*;
