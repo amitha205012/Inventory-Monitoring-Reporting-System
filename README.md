@@ -29,10 +29,10 @@ Inventory-Monitoring-Reporting-System/
 │   ├── util/           # Utilities (DBConnection, CSVHelper)
 │   ├── exception/      # Custom exceptions (DataAccessException, EmailException, InvalidInputException)
 │   ├── report/         # Report generator (DailyReportGenerator)
-│   └── ui/             #  Dashboard (Dashboard)
+│   └── ui/             # Dashboard (Dashboard)
 │
 ├── data/               # SQLite database & exported CSV reports
-├── AppMain.java        # Entry point for console application
+├── AppMain.java        # Entry point for application
 ├── pom.xml             # Maven configuration
 └── README.md
 
@@ -75,7 +75,7 @@ git clone https://github.com/amitha205012/Inventory-Monitoring-Reporting-System.
 
 3. Configure environment variables for DB connection.
 
-4. Run the `AppMain.java` file to start the console application.
+4. Run the `AppMain.java` file to start the application.
 
 ---
 
@@ -135,6 +135,7 @@ This project is licensed under the MIT License.
 
 **Amitha205012**
 [GitHub Profile](https://github.com/amitha205012)
+
 
 
 
