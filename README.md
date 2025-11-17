@@ -1,6 +1,6 @@
 # Inventory Monitoring & Reporting System
 
-A **Java console-based application** for managing inventory, monitoring stock levels, and generating reports. This project is designed to help small businesses or organizations keep track of products, their quantities, limits, and other key details efficiently.
+A **Java based application** for managing inventory, monitoring stock levels, and generating reports. This project is designed to help small businesses or organizations keep track of products, their quantities, limits, and other key details efficiently.
 
 ---
 
@@ -10,7 +10,7 @@ A **Java console-based application** for managing inventory, monitoring stock le
 * ✅ Stock monitoring with threshold alerts
 * ✅ Generate inventory reports in CSV format
 * ✅ Supports multiple product categories
-* ✅ Console-based interactive menu
+* ✅ Interactive menu
 * ✅ Handles exceptions gracefully
 * ✅ Database connectivity using MySQL (or SQLite)
 
@@ -29,7 +29,7 @@ Inventory-Monitoring-Reporting-System/
 │   ├── util/           # Utilities (DBConnection, CSVHelper)
 │   ├── exception/      # Custom exceptions (DataAccessException, EmailException, InvalidInputException)
 │   ├── report/         # Report generator (DailyReportGenerator)
-│   └── ui/             # Console dashboard (Dashboard)
+│   └── ui/             #  Dashboard (Dashboard)
 │
 ├── data/               # SQLite database & exported CSV reports
 ├── AppMain.java        # Entry point for console application
@@ -135,6 +135,7 @@ This project is licensed under the MIT License.
 
 **Amitha205012**
 [GitHub Profile](https://github.com/amitha205012)
+
 
 
 
